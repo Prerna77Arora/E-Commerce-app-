@@ -31,18 +31,24 @@ Shopping Cart
 
 Add products to the cart with quantity adjustments.
 Persisted cart state across user sessions.
+
+
 Order Processing
 
 
 
 Seamless checkout process with payment integration (simulated for development).
+
 Order history and tracking for users.
+
 Admin Panel
 
 
 
 Manage product listings, including CRUD operations.
+
 View and process customer orders.
+
 Inventory management and stock updates.
 
 
@@ -52,11 +58,26 @@ Technologies Used
 
 
 Backend: Built with Python using the Flask/Django framework, providing a solid foundation for web development with a focus on scalability and security.
+
+
+
 Database: MySQL is used for its robustness and performance in handling relational data.
+
+
 Frontend: The interface is crafted with HTML, CSS, and JavaScript, ensuring a responsive and dynamic user experience. Bootstrap is utilized for a sleek, modern design.
+
+
+
 Other Tools: Additional libraries and tools are used to enhance functionality, including SQLAlchemy/Django ORM for database interactions, Flask-WTF/Django Forms for form handling, and various JavaScript libraries for enhanced UI/UX.
+
+
+
 Future Enhancements
+
+
 Our vision for this e-commerce platform includes a roadmap of features to be added in future releases:
+
+
 
 Advanced Search and Filters: Enhanced search capabilities with filters for price, category, ratings, and more.
 
